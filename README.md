@@ -26,6 +26,7 @@
     <a href="https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf">Human-level control through deep reinforcement learning</a>
     <br />
     <br />
+    <br />
   </p>
 </p>
 
@@ -57,16 +58,16 @@
 
 ## Inspiration
 
-- After completing several courses and specializations in machine learning and deep learning, I was interested in applying these concepts to better understand all that goes into the implementation of a model. I found much of the information across the web to primiarily be done in older framework versions like Tensorflow 1 and Keras. Being that I wanted to create a future for myself in the field, I was more interested in the most recent versions of the framework and chose to dedicate my time to Tensorflow 2 and Pytorch.
+- After completing several courses and specializations in machine learning and deep learning, I was interested in applying these concepts to better understand all that goes into the implementation of a model. I found much of the information across the web to primarily be done in older framework versions in Tensorflow 1 and Keras, or Pytorch. Being that I wanted to create a future for myself in the field, I was more interested in the most recent and cutting-edge versions of the framework and chose to dedicate my time to Tensorflow 2 and Pytorch.
 
 - This model was written in Python using the Tensorflow 2 framework, with Tensorflow-Keras as the backend API, which was incorporated to build the DQN neural network. 
 
-- The parameters, hyperparameters, and play file structure were determined using several pre-existing Mountain Car repositories. 
+- The parameters, hyperparameters, and play file structure were determined using several pre-existing Mountain Car repositories as a reference.  
 
 
 ## Parameters and Hyperparameters
 
-- evnironment = MountainCar-v0
+- environment = MountainCar-v0
 - gamma = 0.99
 - epsilon = 1
 - epsilon decay = 0.05
@@ -76,4 +77,4 @@
 - iterations = 200
 
 
-Additional Notes: The episode count could be made higher but was found to be after roughly 300 episodes. This could be made higher to more effectively train the model, but seems to plateu in effectiveness after roughly 450 epsiodes. 
+Additional Notes: The episode count could be made higher but was found to be effective after roughly 300 episodes. This could be made higher to more effectively train the model, but seems to plateau in effectiveness after roughly 450 epsiodes. 
