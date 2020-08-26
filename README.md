@@ -21,6 +21,9 @@
   </p>
   <p align="center">
     <a href="https://github.com/scottvcaputo">scottvcaputo.github.io</a>
+  </p>
+  <p align="center">
+    <a href="https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf">Human-level control through deep reinforcement learning</a>
     <br />
     <br />
   </p>
@@ -33,10 +36,6 @@
 <br />
 <br />
 <hr />
-
-<p align="center">
-    <h2> Frameworks and Dependencies </h2>
-</p>
 
 ## Frameworks and Dependencies 
 
@@ -53,11 +52,28 @@
     - Training and Modeling
 
 - Play
-    - Model can be tested and visualized using pre-trained weights
+    - Model testing and visualization using pre-trained weights
 
 
 ## Inspiration
 
-- After completing several courses and specializations in machine learning and deep learning, I was interested in applying these concepts to better understand all that goes into the implementation of a model. I found much of the information across the web to primiarily be done in older framework versions like Tensorflow 1 and Keras. Being that I wanted to create a future for myself in the field, I was more interested in the most recent framekwork versions and chose to dedicate my time to Tensorflow 2 and Pytorch.
+- After completing several courses and specializations in machine learning and deep learning, I was interested in applying these concepts to better understand all that goes into the implementation of a model. I found much of the information across the web to primiarily be done in older framework versions like Tensorflow 1 and Keras. Being that I wanted to create a future for myself in the field, I was more interested in the most recent versions of the framework and chose to dedicate my time to Tensorflow 2 and Pytorch.
 
 - This model was written in Python using the Tensorflow 2 framework, with Tensorflow-Keras as the backend API, which was incorporated to build the DQN neural network. 
+
+- The parameters, hyperparameters, and play file structure were determined using several pre-existing Mountain Car repositories. 
+
+
+## Parameters and Hyperparameters
+
+- evnironment = MountainCar-v0
+- gamma = 0.99
+- epsilon = 1
+- epsilon decay = 0.05
+- epsilon minumum = 0.01 
+- learning rate = 0.001
+- episodes = 350
+- iterations = 200
+
+
+Additional Notes: The episode count could be made higher but was found to be after roughly 300 episodes. This could be made higher to more effectively train the model, but seems to plateu in effectiveness after roughly 450 epsiodes. 
