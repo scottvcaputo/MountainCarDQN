@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\tools\\Anaconda3\\envs\\Tensorflow2\\python.exe",
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist = keras"
+    ]
+}
