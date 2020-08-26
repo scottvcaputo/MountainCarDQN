@@ -26,7 +26,7 @@
   </p>
 </p>
 
-[![Demo](SuccessRunVid.mp4)](Demo)
+[![Demo](https://github.com/scottvcaputo/MountainCarDQN/blob/master/SuccessRunVid.mp4)](Demo)
 
 
 ## Frameworks and Dependencies 
