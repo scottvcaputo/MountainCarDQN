@@ -26,7 +26,7 @@
   </p>
 </p>
 
-[![Demo](https://github.com/scottvcaputo/MountainCarDQN/blob/master/SuccessRunVid.mp4)](Demo)
+[![Demo](https://media.giphy.com/media/MBHu5zorQTmcxXmUbw/giphy.gif)](Demo)
 
 
 ## Frameworks and Dependencies 
