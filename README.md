@@ -26,7 +26,9 @@
   </p>
 </p>
 
-[![Demo](https://media.giphy.com/media/MBHu5zorQTmcxXmUbw/giphy.gif)](Demo)
+<p align="center">
+    <img src="https://media.giphy.com/media/MBHu5zorQTmcxXmUbw/giphy.gif" alt="Demo" />
+</p>
 
 
 ## Frameworks and Dependencies 
