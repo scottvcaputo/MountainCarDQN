@@ -29,13 +29,13 @@
 <p align="center">
     <img src="https://media.giphy.com/media/MBHu5zorQTmcxXmUbw/giphy.gif" alt="Demo" />
 </p>
-<<<<<<< HEAD
-=======
 
->>>>>>> 66d171d1d3145d17c3a882669df52d561ad597fd
+<br />
+<br />
+<hr />
 
 <p align="center">
-    <h2>Frameworks and Dependencies</h2>
+    <h2> Frameworks and Dependencies </h2>
 </p>
 
 ## Frameworks and Dependencies 
