@@ -26,17 +26,19 @@
   </p>
 </p>
 
-[![Demo](SuccessRunVid.mp4)](Demo)
-
+<p align="center">
+    <img src="https://media.giphy.com/media/MBHu5zorQTmcxXmUbw/giphy.gif" alt="Demo" />
+</p>
 
 ## Frameworks and Dependencies 
 
-[Python](https://www.python.org/)
-| [Bootstrap](https://www.tensorflow.org/)
-| [Gym](https://gym.openai.com/)
-| [Mountain Car](https://gym.openai.com/envs/MountainCar-v0/)
-| [NumPy](https://numpy.org/)
-
+<p align="center">
+    [Python](https://www.python.org/)
+    | [Bootstrap](https://www.tensorflow.org/)
+    | [Gym](https://gym.openai.com/)
+    | [Mountain Car](https://gym.openai.com/envs/MountainCar-v0/)
+    | [NumPy](https://numpy.org/)
+</p>
 
 ## Structure 
 
@@ -51,4 +53,4 @@
 
 - After completing several courses and specializations in machine learning and deep learning, I was interested in applying these concepts to better understand all that goes into the implementation of a model. I found much of the information across the web to primiarily be done in older framework versions like Tensorflow 1 and Keras. Being that I wanted to create a future for myself in the field, I was more interested in the most recent framekwork versions and chose to dedicate my time to Tensorflow 2 and Pytorch.
 
-- This model was written in Python using the Tensorflow 2 framework, with Tensorflow-Keras as the backend API, which was incorporated to build the DQN neural network.
+- This model was written in Python using the Tensorflow 2 framework, with Tensorflow-Keras as the backend API, which was incorporated to build the DQN neural network. 
