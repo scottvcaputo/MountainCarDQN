@@ -34,6 +34,10 @@
 
 >>>>>>> 66d171d1d3145d17c3a882669df52d561ad597fd
 
+<p align="center">
+    <h2>Frameworks and Dependencies</h2>
+</p>
+
 ## Frameworks and Dependencies 
 
 
