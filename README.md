@@ -32,13 +32,12 @@
 
 ## Frameworks and Dependencies 
 
-<p align="center">
-    [Python](https://www.python.org/)
-    | [Bootstrap](https://www.tensorflow.org/)
-    | [Gym](https://gym.openai.com/)
-    | [Mountain Car](https://gym.openai.com/envs/MountainCar-v0/)
-    | [NumPy](https://numpy.org/)
-</p>
+
+[Python](https://www.python.org/)
+| [Bootstrap](https://www.tensorflow.org/)
+| [Gym](https://gym.openai.com/)
+| [Mountain Car](https://gym.openai.com/envs/MountainCar-v0/)
+| [NumPy](https://numpy.org/)
 
 ## Structure 
 
